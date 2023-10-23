@@ -71,13 +71,11 @@
 .register{
     border-radius: 10px;
     border: none;
-    /* width: 150px;
-    height: 30px; */
     background-color:#545BE8;
     font-family: inter;
     font-weight: 700;
     color: #ffff;
-    padding: 10px 70px;
+    padding: 15px 70px;
 }
 .logo{
     height: 30px;
@@ -135,6 +133,9 @@ margin-top: 20px;
     display: flex;
     text-align: center;
     align-items: center;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
     gap: 5px;
     color: black;
 }
